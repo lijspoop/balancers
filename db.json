@@ -1,9 +1,8 @@
 {
-  "token": [
-    {
-      "id": "kodik",
-      "availables": [ "a0457eb45312af80bbb9f3fb33de3e93", "ac8c072e62855540ec492698e2c1c326" ],
+  "token": {
+    "kodik": {
+      "available": [ "a0457eb45312af80bbb9f3fb33de3e93", "ac8c072e62855540ec492698e2c1c326" ],
       "dead": [ "447d179e875efe44217f20d1ee2146be" ]
     }
-  ]
+  }
 }
