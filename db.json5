@@ -1,0 +1,23 @@
+{
+  api: [
+    {
+      id: "shikimori",
+      doc: "https://shiki.one/api/doc",
+      v1: "https://shiki.one/api",
+      v2: "https://shiki.one/api/v2",
+      graphql: "https://shiki.one/api/graphql"
+    },
+    {
+      id: "sociallib",
+      cdnlibs: "https://api.cdnlibs.org/api",
+      mangalib: "https://api2.mangalib.me/api"
+    }
+  ],
+  token: [
+    {
+      id: "kodik",
+      available: [ "a0457eb45312af80bbb9f3fb33de3e93", "ac8c072e62855540ec492698e2c1c326", "41dd95f84c21719b09d6c71182237a25" ],
+      dead: [ "447d179e875efe44217f20d1ee2146be" ]
+    }
+  ]
+}
