@@ -2,7 +2,7 @@
   "api": [
     {
       "id": "shikimori",
-      "doc': "https://shiki.one/api/doc",
+      "doc": "https://shiki.one/api/doc",
       "v1": "https://shiki.one/api",
       "v2": "https://shiki.one/api/v2",
       "graphql": "https://shiki.one/api/graphql"
