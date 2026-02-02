@@ -10,7 +10,8 @@
     {
       "id": "sociallib",
       "cdnlibs": "https://api.cdnlibs.org/api",
-      "mangalib": "https://api2.mangalib.me/api"
+      "mangalib": "https://api2.mangalib.me/api",
+      "hentaicdn": "https://hapi.hentaicdn.org/api"
     }
   ],
   "token": [
