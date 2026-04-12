@@ -2,10 +2,10 @@
   "api": [
     {
       "id": "shikimori",
-      "doc": "https://shiki.one/api/doc",
-      "v1": "https://shiki.one/api",
-      "v2": "https://shiki.one/api/v2",
-      "graphql": "https://shiki.one/api/graphql"
+      "doc": "https://shikimori.io/api/doc",
+      "v1": "https://shikimori.io/api",
+      "v2": "https://shikimori.io/api/v2",
+      "graphql": "https://shikimori.io/api/graphql"
     },
     {
       "id": "sociallib",
